@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+section{
+    padding: 30px;
+    display: flex;
+}
+.red{
+    background-color: white;
+    box-shadow: 30px 20px 40px rgba(0, 0, 0, 0.208);
+    padding: 10px;
+    width: 340px;
+    height: 450px;
+    border-radius: 20px;
+    /* display: inline-block; */
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.red h1{
+    padding-bottom: 30px;
+}
+.red p{
+    padding-bottom: 30px;
+}
+.red small{
+    color: goldenrod;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.red img{
+    padding-left: 30px;
+}
+.red button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 125px;
+    margin-top: 40px;
+    background-color: rgb(62, 62, 214);
+    color: white;
+}
+.green{
+    background-color: white;
+    box-shadow: 30px 20px 40px rgba(0, 0, 0, 0.208);
+    padding: 10px;
+    width: 340px;
+    height: 450px;
+    border-radius: 20px;
+    /* display: inline-block; */
+    margin-right: 40px;
+}
+.green h1{
+    padding-bottom: 30px;
+}
+.green p{
+    padding-bottom: 30px;
+}
+.green small{
+    color: goldenrod;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.green img{
+    padding-left: 30px;
+}
+.green button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 125px;
+    margin-top: 40px;
+    background-color: rgb(62, 62, 214);
+    color: white;
+}
+.yellow{
+    background-color: white;
+    box-shadow: 30px 20px 40px rgba(0, 0, 0, 0.208);
+    padding: 10px;
+    width: 340px;
+    height: 450px;
+    border-radius: 20px;
+    /* display: inline-block; */
+    margin-right: 10px;
+}
+.yellow h1{
+    padding-bottom: 30px;
+}
+.yellow p{
+    padding-bottom: 30px;
+}
+.yellow small{
+    color: goldenrod;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.yellow img{
+    padding-left: 30px;
+}
+.yellow button{
+    border: none;
+    border-radius: 30px;
+    padding: 5px 125px;
+    margin-top: 40px;
+    background-color: rgb(62, 62, 214);
+    color: white;
+}
+/* .red{
+    background-color: red;
+    padding: 20px;
+    display: inline;
+    
+}
+
+.blue{
+    background-color: blue;
+    padding: 20px;
+    display: inline-block;
+    width: 40%;
+}
+
+.green{
+    background-color:green;
+    padding: 20px;
+    display: inline;
+    width: 40%;
+}
+
+
+.red1{
+    background-color: red;
+    padding: 20px;
+    display: block;
+}
+
+.blue2{
+    background-color: blue;
+    padding: 20px;
+    display: block;
+}
+
+.green1{
+    background-color:green;
+    padding: 20px;
+    display: block;
+} */

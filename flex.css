@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red{
+        background-color: rgb(224, 219, 219);
+        /* padding: 20px; */
+        width: 20%;
+        box-shadow: 2px 3px 10px rgba(255, 0, 0, 339);
+
+
+}
+.blue{
+    background-color: blueviolet;
+    padding: 20px;
+    width: 30%;
+
+}
+.green{
+    background-color: green;
+    padding: 20px;
+    width: 30%;
+
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.button{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    width: 70%;
+    border: none;
+    border-radius: 20px;
+    margin: 20px 10px;
+    text-align: center;
+}
+div{
+    
+}
+
